@@ -22,10 +22,7 @@ MATLAB R2021a or later
 Installation
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/yourusername/OFDM-RF-Communication-System.git
-cd OFDM-RF-Communication-System
-Run main.m to start the simulation.
+
 Usage
 Configure the parameters (modulation type, SNR range, etc.) in main.m.
 Results are saved and plotted automatically, showing BER vs. SNR and error rate performance.
